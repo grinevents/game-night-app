@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Generate Clues using Creative Random Word Generator -->
+<!-- Copy Words into Google Doc: Game Night San Diego - Clue Generator -->
+<!-- Copy XML Code from Google Doc between <Root> and </Root> -->
+<Root>
+<Clue>Dipstick</Clue>
+<Clue>Over The River And Through The Woods</Clue>
+<Clue>Low Rise Jeans</Clue>
+<Clue>Roll Up Your Sleeves</Clue>
+<Clue>Quiver</Clue>
+<Clue>Claws</Clue>
+<Clue>Mischievous</Clue>
+<Clue>Firefighter</Clue>
+<Clue>Bread Knife</Clue>
+<Clue>Driving Miss Daisy</Clue>
+<Clue>Missile</Clue>
+<Clue>Baseball</Clue>
+<Clue>Beautiful</Clue>
+<Clue>Ruby Red Slippers</Clue>
+<Clue>Hydrogen</Clue>
+<Clue>Lagoon</Clue>
+<Clue>Ice Skating</Clue>
+<Clue>Monkey Suit</Clue>
+<Clue>Marquee</Clue>
+<Clue>A Watched Pot Never Boils</Clue>
+<Clue>Presidents' Day</Clue>
+<Clue>Rhinoceros</Clue>
+<Clue>Weak</Clue>
+<Clue>Pincers</Clue>
+<Clue>Fog</Clue>
+<Clue>Security Check</Clue>
+<Clue>Dumbo</Clue>
+<Clue>Weather Vane</Clue>
+<Clue>Snow Pea</Clue>
+<Clue>Speeding Ticket</Clue>
+<Clue>Cry Wolf</Clue>
+<Clue>Shell</Clue>
+<Clue>Ship In A Bottle</Clue>
+<Clue>Boar</Clue>
+<Clue>Cut And Paste</Clue>
+<Clue>Cabin</Clue>
+<Clue>Let The Cat Out Of The Bag</Clue>
+<Clue>Snowboarding</Clue>
+<Clue>As Plain As The Nose On Your Face</Clue>
+<Clue>Actress</Clue>
+<Clue>No News Is Good News</Clue>
+<Clue>Radio</Clue>
+<Clue>Slide</Clue>
+<Clue>Cookie Sheet</Clue>
+<Clue>Psychiatrist</Clue>
+<Clue>MGM Lion</Clue>
+<Clue>Belly Button</Clue>
+<Clue>Red Carpet</Clue>
+<Clue>Cookie Cutter</Clue>
+<Clue>Whip Cream</Clue>
+<Clue>Forbidden Fruit</Clue>
+<Clue>Tap</Clue>
+<Clue>Diamond Ring</Clue>
+<Clue>Tomato Sauce</Clue>
+<Clue>Meet</Clue>
+<Clue>Boxer</Clue>
+<Clue>Pantry</Clue>
+<Clue>Ladle</Clue>
+<Clue>Buzzard</Clue>
+<Clue>Magician</Clue>
+<Clue>Selling Like Hotcakes</Clue>
+<Clue>Cloud Nine</Clue>
+<Clue>Half Hour</Clue>
+<Clue>Plane</Clue>
+<Clue>Stub Your Toe</Clue>
+<Clue>Conversation</Clue>
+<Clue>South America</Clue>
+<Clue>Bleed</Clue>
+<Clue>Beauty Parlor</Clue>
+<Clue>Mountain Bike</Clue>
+<Clue>Throw A Hat Into The Ring</Clue>
+<Clue>Coupon</Clue>
+<Clue>Pumpkin Carving</Clue>
+<Clue>Caught Red Handed</Clue>
+<Clue>Index</Clue>
+<Clue>Goodwill</Clue>
+<Clue>Bull</Clue>
+<Clue>Bleach</Clue>
+<Clue>Square</Clue>
+<Clue>Celebrate</Clue>
+<Clue>Hanger</Clue>
+<Clue>Blouse</Clue>
+<Clue>Bolo Tie</Clue>
+<Clue>Ferris Wheel</Clue>
+<Clue>Soak Up The Sun</Clue>
+<Clue>Aunt</Clue>
+<Clue>Dizzy</Clue>
+<Clue>Beer Belly</Clue>
+<Clue>Mow</Clue>
+<Clue>Blue Angel</Clue>
+<Clue>Batman Returns</Clue>
+<Clue>Attractive</Clue>
+<Clue>Key</Clue>
+<Clue>Sheepdog</Clue>
+<Clue>DNA</Clue>
+<Clue>Stand Up Paddleboard</Clue>
+<Clue>Baker's Dozen</Clue>
+<Clue>Whistle</Clue>
+<Clue>Hobbit</Clue>
+<Clue>Fry</Clue>
+<Clue>Boa Constrictor</Clue>
+<Clue>Minnow</Clue>
+<Clue>Condor</Clue>
+<Clue>Direct</Clue>
+<Clue>Bass</Clue>
+<Clue>Metal Detector</Clue>
+<Clue>Sleigh Bells</Clue>
+<Clue>Eight Ball</Clue>
+<Clue>Footloose</Clue>
+<Clue>Currency</Clue>
+<Clue>Penny Candy</Clue>
+<Clue>Junk Mail</Clue>
+<Clue>Carpet</Clue>
+<Clue>Patient</Clue>
+<Clue>Riptide</Clue>
+<Clue>Flea Collar</Clue>
+<Clue>Fishhook</Clue>
+<Clue>Soccer</Clue>
+<Clue>Mint Jelly</Clue>
+<Clue>Handball</Clue>
+<Clue>Rice</Clue>
+<Clue>Clam</Clue>
+<Clue>Hotel</Clue>
+<Clue>Twilight</Clue>
+<Clue>Big Dipper</Clue>
+<Clue>Centerpiece</Clue>
+<Clue>Eyeliner</Clue>
+<Clue>Morning Star</Clue>
+<Clue>Sister In Law</Clue>
+<Clue>Straw</Clue>
+<Clue>Typewriter</Clue>
+<Clue>Scrabble</Clue>
+<Clue>Divot</Clue>
+<Clue>Fence</Clue>
+<Clue>Stepdaughter</Clue>
+<Clue>Fat Cat</Clue>
+<Clue>Cricket</Clue>
+<Clue>Mailbox</Clue>
+<Clue>Lap Dog</Clue>
+<Clue>Dog Whisperer</Clue>
+<Clue>Hammerhead Shark</Clue>
+<Clue>Extend</Clue>
+<Clue>Cue Card</Clue>
+<Clue>Tony Hawk</Clue>
+<Clue>Behind</Clue>
+<Clue>Canned Laughter</Clue>
+<Clue>Postcard</Clue>
+<Clue>Filling</Clue>
+<Clue>Mayonnaise</Clue>
+<Clue>Hoodwinked</Clue>
+<Clue>Sneakers</Clue>
+<Clue>Microphone</Clue>
+<Clue>Masking Tape</Clue>
+<Clue>Atom</Clue>
+<Clue>Firewall</Clue>
+<Clue>He Who Laughs Last Laughs Best</Clue>
+<Clue>Mother's Day</Clue>
+<Clue>Afraid</Clue>
+<Clue>Stumbling Block</Clue>
+<Clue>Piggy Bank</Clue>
+<Clue>Compass</Clue>
+<Clue>Daisy Dukes</Clue>
+<Clue>Headhunter</Clue>
+<Clue>Dive Bomb</Clue>
+<Clue>Money Pit</Clue>
+<Clue>Steal My Thunder</Clue>
+<Clue>A Rolling Stone Gathers No Moss</Clue>
+<Clue>Pint</Clue>
+<Clue>Starting Pistol</Clue>
+<Clue>Chameleon</Clue>
+<Clue>U Can't Touch This</Clue>
+<Clue>Trap</Clue>
+<Clue>Scooter</Clue>
+<Clue>United States Of America</Clue>
+<Clue>Snake</Clue>
+<Clue>Eye Patch</Clue>
+<Clue>Poster</Clue>
+<Clue>Astrologer</Clue>
+<Clue>Peso</Clue>
+<Clue>Glacier</Clue>
+<Clue>Burrito</Clue>
+<Clue>Wedge</Clue>
+<Clue>Reality Television</Clue>
+<Clue>Cap</Clue>
+<Clue>Murder</Clue>
+<Clue>Piano Tuner</Clue>
+<Clue>Couch</Clue>
+<Clue>Platform Shoes</Clue>
+<Clue>Little Bighorn</Clue>
+<Clue>Librarian</Clue>
+<Clue>White Fang</Clue>
+<Clue>Beetle</Clue>
+<Clue>Picnic Table</Clue>
+<Clue>Spank</Clue>
+<Clue>Bridge</Clue>
+<Clue>Horse's Tail</Clue>
+<Clue>Mistletoe</Clue>
+<Clue>Gumtree</Clue>
+<Clue>Body Waxing</Clue>
+<Clue>Post It Notes</Clue>
+<Clue>Coaster</Clue>
+<Clue>Capsize</Clue>
+<Clue>Witch</Clue>
+<Clue>Carrot</Clue>
+<Clue>Socrates</Clue>
+<Clue>Forked Tongue</Clue>
+<Clue>Body Check</Clue>
+<Clue>Rotate</Clue>
+<Clue>Undershirt</Clue>
+<Clue>The Naked And The Dead</Clue>
+<Clue>Cold Shoulder</Clue>
+<Clue>Weightlifting</Clue>
+<Clue>Buckle</Clue>
+<Clue>Banana Split</Clue>
+<Clue>Texas Chainsaw Massacre</Clue>
+<Clue>Check Book</Clue>
+<Clue>Stagecoach</Clue>
+<Clue>Spikes</Clue>
+<Clue>Garage Sale</Clue>
+<Clue>Middle Finger</Clue>
+<Clue>Yellow Submarine</Clue>
+<Clue>Pole Vault</Clue>
+<Clue>Bull In A China Shop</Clue>
+<Clue>Cellulite</Clue>
+<Clue>Ladder Truck</Clue>
+<Clue>Open Door Policy</Clue>
+<Clue>A Cut Above</Clue>
+<Clue>Bearded Lady</Clue>
+<Clue>Badger</Clue>
+<Clue>The Jetsons</Clue>
+<Clue>Rush Hour</Clue>
+<Clue>Dead Man Walking</Clue>
+<Clue>Niagara Falls</Clue>
+<Clue>Bill Gates</Clue>
+<Clue>Compact Disc</Clue>
+<Clue>Pass The Buck</Clue>
+<Clue>Wizard Of Oz</Clue>
+<Clue>Inside Track</Clue>
+<Clue>Wine Glass</Clue>
+<Clue>Boxing Ring</Clue>
+<Clue>Love Triangle</Clue>
+<Clue>The Waterboy</Clue>
+<Clue>Jelly Beans</Clue>
+<Clue>Mr. Mom</Clue>
+<Clue>Toto</Clue>
+<Clue>Cloverleaf</Clue>
+<Clue>Supermodel</Clue>
+<Clue>Sport Coat</Clue>
+<Clue>Heartstrings</Clue>
+<Clue>Hallway</Clue>
+<Clue>Lost In Space</Clue>
+<Clue>Father's Day</Clue>
+<Clue>Cuba</Clue>
+<Clue>Collision</Clue>
+<Clue>Swine Flu</Clue>
+<Clue>It's A Hard Knock Life</Clue>
+<Clue>Fairway</Clue>
+<Clue>Turn</Clue>
+<Clue>Ain't No Mountain High Enough</Clue>
+<Clue>Bumper</Clue>
+<Clue>All Aboard</Clue>
+<Clue>Electric Blanket</Clue>
+<Clue>Jolly Rancher</Clue>
+<Clue>Greasy Spoon</Clue>
+<Clue>Burn The Midnight Oil</Clue>
+<Clue>Yeast</Clue>
+<Clue>American Pie</Clue>
+<Clue>Jump In A Lake</Clue>
+<Clue>Saint Bernard</Clue>
+<Clue>Track And Field</Clue>
+<Clue>Bankrupt</Clue>
+<Clue>Vegetable</Clue>
+<Clue>Back Door</Clue>
+<Clue>Darts</Clue>
+<Clue>Ski Jump</Clue>
+<Clue>Protest</Clue>
+<Clue>Wallpaper</Clue>
+<Clue>Seaplane</Clue>
+<Clue>Needle Nose Pliers</Clue>
+<Clue>Hail</Clue>
+<Clue>On The Fence</Clue>
+<Clue>Minnesota</Clue>
+<Clue>Fist</Clue>
+<Clue>Wall Street Journal</Clue>
+<Clue>Timber</Clue>
+<Clue>Wind In The Willows</Clue>
+<Clue>Harry Potter</Clue>
+<Clue>Buttercup</Clue>
+<Clue>Pirates</Clue>
+<Clue>Tie</Clue>
+<Clue>Photocopy</Clue>
+<Clue>Spray</Clue>
+<Clue>Stage Fright</Clue>
+<Clue>Guys And Dolls</Clue>
+<Clue>Pilot</Clue>
+<Clue>Fire Sale</Clue>
+<Clue>Waffle</Clue>
+<Clue>Stick Together</Clue>
+<Clue>Rear Tire</Clue>
+<Clue>Chauffeur</Clue>
+<Clue>Air Conditioner</Clue>
+<Clue>The Sun Also Rises</Clue>
+<Clue>News</Clue>
+<Clue>Bulldog</Clue>
+<Clue>Grab The Bull By The Horns</Clue>
+<Clue>Blackmail</Clue>
+<Clue>Bundle Of Joy</Clue>
+<Clue>Wedding Gown</Clue>
+<Clue>Jitterbug</Clue>
+<Clue>Paris</Clue>
+<Clue>Slope</Clue>
+<Clue>Lump In Your Throat</Clue>
+<Clue>Basement</Clue>
+<Clue>On The Wing</Clue>
+<Clue>Hairspray</Clue>
+<Clue>Ironside</Clue>
+<Clue>Myself</Clue>
+<Clue>Double Date</Clue>
+<Clue>After</Clue>
+<Clue>Mack The Knife</Clue>
+<Clue>Chick</Clue>
+<Clue>Campground</Clue>
+<Clue>Parallel</Clue>
+<Clue>Florida</Clue>
+<Clue>Giraffe</Clue>
+<Clue>Hare</Clue>
+<Clue>Storm Cloud</Clue>
+<Clue>Onion</Clue>
+<Clue>Hat</Clue>
+<Clue>Spin City</Clue>
+<Clue>Knee Pads</Clue>
+<Clue>Thermometer</Clue>
+<Clue>Roulette Wheel</Clue>
+<Clue>Python</Clue>
+<Clue>New York Jets</Clue>
+<Clue>Vulture</Clue>
+<Clue>Pigtail</Clue>
+<Clue>Gnome</Clue>
+<Clue>Under</Clue>
+<Clue>Sherlock Holmes</Clue>
+<Clue>Big Fish</Clue>
+<Clue>Days Of Our Lives</Clue>
+<Clue>Cat's Whiskers</Clue>
+<Clue>Drapes</Clue>
+<Clue>Potato Salad</Clue>
+<Clue>Parrot</Clue>
+<Clue>Spiked Shoe</Clue>
+<Clue>Horoscope</Clue>
+<Clue>Log Jam</Clue>
+<Clue>Needle In A Haystack</Clue>
+<Clue>Make A Speech</Clue>
+<Clue>Rock The Boat</Clue>
+<Clue>Second</Clue>
+<Clue>Cave</Clue>
+<Clue>Bumper To Bumper</Clue>
+<Clue>Cattle</Clue>
+<Clue>Eraser</Clue>
+<Clue>Crosswalk</Clue>
+<Clue>South Pole</Clue>
+<Clue>Pasture</Clue>
+<Clue>Bad Moon Rising</Clue>
+<Clue>Tourist</Clue>
+<Clue>Birthday Suit</Clue>
+<Clue>Home Is Where The Heart Is</Clue>
+<Clue>Tread Water</Clue>
+<Clue>Joy Of Cooking</Clue>
+<Clue>Booth</Clue>
+<Clue>Jellyfish</Clue>
+<Clue>Doctor</Clue>
+<Clue>Dead End</Clue>
+<Clue>Neon</Clue>
+<Clue>Piece Of My Heart</Clue>
+<Clue>Salad</Clue>
+<Clue>Embrace</Clue>
+<Clue>Dolphin</Clue>
+<Clue>Tape Measure</Clue>
+<Clue>Top Dog</Clue>
+<Clue>Knock Knock Jokes</Clue>
+<Clue>Times Square</Clue>
+<Clue>Look The Other Way</Clue>
+<Clue>The Music Man</Clue>
+<Clue>Sand Trap</Clue>
+<Clue>Left Hand</Clue>
+<Clue>Olive Oil</Clue>
+<Clue>Dessert</Clue>
+<Clue>Baby Fat</Clue>
+<Clue>Photo Album</Clue>
+<Clue>Egg Sandwich</Clue>
+<Clue>Raising A Stink</Clue>
+<Clue>Snowball</Clue>
+<Clue>Sock</Clue>
+<Clue>Second Hand Clothes</Clue>
+<Clue>Crescent</Clue>
+<Clue>Thumbtack</Clue>
+<Clue>Graduate Student</Clue>
+<Clue>Elevator</Clue>
+<Clue>Dream</Clue>
+<Clue>Beekeeper</Clue>
+<Clue>Tap Shoes</Clue>
+<Clue>City</Clue>
+<Clue>Pharmacist</Clue>
+<Clue>Cone</Clue>
+<Clue>Boarding Pass</Clue>
+<Clue>Bone</Clue>
+<Clue>Superman</Clue>
+<Clue>Rich</Clue>
+<Clue>Bighorn Sheep</Clue>
+<Clue>Red Cross</Clue>
+<Clue>Message</Clue>
+<Clue>North America</Clue>
+<Clue>Oxtail Soup</Clue>
+<Clue>Luggage</Clue>
+<Clue>Olive Branch</Clue>
+<Clue>Salary</Clue>
+<Clue>Seastar</Clue>
+<Clue>Actor</Clue>
+<Clue>Flip Flops</Clue>
+<Clue>Screw Up</Clue>
+<Clue>Bookworm</Clue>
+<Clue>Break The Law</Clue>
+<Clue>Sea Urchin</Clue>
+<Clue>Cakewalk</Clue>
+<Clue>Knee Highs</Clue>
+<Clue>Engine Block</Clue>
+<Clue>Shoot The Breeze</Clue>
+<Clue>Best Man</Clue>
+<Clue>Tomb</Clue>
+<Clue>Trench Coat</Clue>
+<Clue>Keyboard</Clue>
+<Clue>Catcher's Mitt</Clue>
+<Clue>Vitamins</Clue>
+<Clue>Six Flags</Clue>
+<Clue>Tour</Clue>
+<Clue>Heart And Soul</Clue>
+<Clue>State</Clue>
+<Clue>Full Steam Ahead</Clue>
+<Clue>Man Overboard</Clue>
+<Clue>Sword In The Stone</Clue>
+<Clue>Somersault</Clue>
+<Clue>Nose</Clue>
+<Clue>Chicken Leg</Clue>
+<Clue>Great Lakes</Clue>
+<Clue>Panther</Clue>
+<Clue>Soda</Clue>
+<Clue>Window Shade</Clue>
+<Clue>Music</Clue>
+<Clue>Jungle Book</Clue>
+<Clue>Power</Clue>
+<Clue>Panties</Clue>
+<Clue>Drive In Movie</Clue>
+<Clue>Boil</Clue>
+<Clue>From Coast To Coast</Clue>
+<Clue>Bail</Clue>
+<Clue>Dairy Farm</Clue>
+<Clue>Scary Movie</Clue>
+<Clue>Barstool</Clue>
+<Clue>Baseball Player</Clue>
+<Clue>Bronze</Clue>
+<Clue>Birdbrain</Clue>
+<Clue>Steer</Clue>
+<Clue>T Ball</Clue>
+<Clue>Banana Peel</Clue>
+<Clue>Food Poisoning</Clue>
+<Clue>Whisk Broom</Clue>
+<Clue>Hijacking</Clue>
+<Clue>Oyster Cracker</Clue>
+<Clue>Left Fielder</Clue>
+<Clue>Election</Clue>
+<Clue>Driver</Clue>
+<Clue>Dove</Clue>
+<Clue>Fat Lip</Clue>
+<Clue>Ring Toss</Clue>
+<Clue>Raisin</Clue>
+<Clue>Master Bedroom</Clue>
+<Clue>Pepper</Clue>
+<Clue>Island Of The Blue Dolphin</Clue>
+<Clue>Eighteen Wheeler</Clue>
+<Clue>Party Planner</Clue>
+<Clue>Lemon</Clue>
+<Clue>Hairpin Curves</Clue>
+<Clue>Pink Flamingos</Clue>
+<Clue>Menu</Clue>
+<Clue>Full Of Hot Air</Clue>
+<Clue>Fire Hydrant</Clue>
+<Clue>Maple Syrup</Clue>
+<Clue>Gun</Clue>
+<Clue>Little Big Man</Clue>
+<Clue>From Cover To Cover</Clue>
+<Clue>Business Class</Clue>
+<Clue>Tumble</Clue>
+<Clue>Sneeze</Clue>
+<Clue>Poker Face</Clue>
+<Clue>Cupboard</Clue>
+<Clue>Reach For The Sky</Clue>
+<Clue>Blu Ray Disc</Clue>
+<Clue>Registry Office</Clue>
+<Clue>Heart To Heart Talk</Clue>
+<Clue>Bull In A China Store</Clue>
+<Clue>Silver Lining</Clue>
+<Clue>Hit The Books</Clue>
+<Clue>Cockatoo</Clue>
+<Clue>Airhead</Clue>
+<Clue>Cattle Crossing</Clue>
+<Clue>Edge</Clue>
+<Clue>Cleopatra</Clue>
+<Clue>Davy Jones' Locker</Clue>
+<Clue>Drum</Clue>
+<Clue>Pig</Clue>
+<Clue>Elephant</Clue>
+<Clue>Taser</Clue>
+<Clue>Smile</Clue>
+<Clue>Eyebrow Pencil</Clue>
+<Clue>Firing Squad</Clue>
+<Clue>Three Bears</Clue>
+<Clue>Dog Collar</Clue>
+<Clue>Lord Of The Flies</Clue>
+<Clue>Globe</Clue>
+<Clue>Bottle Of Ketchup</Clue>
+<Clue>Microwave Dinner</Clue>
+<Clue>Sword</Clue>
+<Clue>Wall Street</Clue>
+<Clue>Birthday Party</Clue>
+<Clue>Apricot</Clue>
+<Clue>Butterfly Net</Clue>
+<Clue>Poker</Clue>
+<Clue>Head And Shoulders Above</Clue>
+<Clue>Scarf</Clue>
+<Clue>Fingertip</Clue>
+<Clue>Lens</Clue>
+<Clue>Six Pack</Clue>
+<Clue>Growing Pains</Clue>
+<Clue>Football Helmet</Clue>
+<Clue>Carbon Dioxide</Clue>
+<Clue>Fahrenheit</Clue>
+<Clue>Horse Race</Clue>
+<Clue>Kitten</Clue>
+<Clue>Lobby</Clue>
+<Clue>Chimpanzee</Clue>
+<Clue>Measuring Spoon</Clue>
+<Clue>Double Decker Bus</Clue>
+<Clue>Hot Seat</Clue>
+<Clue>Strainer</Clue>
+<Clue>DVD</Clue>
+<Clue>Hot</Clue>
+<Clue>Puppy Love</Clue>
+<Clue>Road Sign</Clue>
+<Clue>Brass Knuckles</Clue>
+<Clue>Deep End</Clue>
+<Clue>Sheriff</Clue>
+<Clue>Beeper</Clue>
+<Clue>Twin Peaks</Clue>
+<Clue>Ventriloquist</Clue>
+<Clue>Look On The Bright Side</Clue>
+<Clue>Vampire</Clue>
+<Clue>Tissue</Clue>
+<Clue>Picket Line</Clue>
+<Clue>Beauty And The Beast</Clue>
+<Clue>Cabbage</Clue>
+<Clue>Keystroke</Clue>
+<Clue>Tongue Tied</Clue>
+<Clue>Ready, Set, Go</Clue>
+<Clue>Spectacle</Clue>
+<Clue>Garlic Bread</Clue>
+<Clue>Negative</Clue>
+<Clue>Candy Striper</Clue>
+<Clue>Library Card</Clue>
+<Clue>Bugle</Clue>
+<Clue>Bleeding Heart</Clue>
+<Clue>Rose</Clue>
+<Clue>Fire Truck</Clue>
+<Clue>Penalty</Clue>
+<Clue>Splinter</Clue>
+<Clue>Eiffel Tower</Clue>
+<Clue>Lawnmower</Clue>
+<Clue>Canary</Clue>
+<Clue>Planet Of The Apes</Clue>
+<Clue>Flip Side</Clue>
+<Clue>Jar Of Pickles</Clue>
+<Clue>Melting Pot</Clue>
+<Clue>Forrest Gump</Clue>
+<Clue>Golden Girls</Clue>
+<Clue>Bookshelf</Clue>
+<Clue>Motel</Clue>
+<Clue>Little Mermaid</Clue>
+<Clue>Goat Cheese</Clue>
+<Clue>Nicotine</Clue>
+<Clue>Tapestry</Clue>
+<Clue>Traffic</Clue>
+<Clue>Armpit</Clue>
+<Clue>Dill Pickle</Clue>
+<Clue>Off The Cuff</Clue>
+<Clue>Text</Clue>
+<Clue>Pedals</Clue>
+<Clue>Back And Forth</Clue>
+<Clue>Get The Ball Rolling</Clue>
+<Clue>Mars</Clue>
+<Clue>Checking Account</Clue>
+<Clue>Sinking Ship</Clue>
+<Clue>East Wind</Clue>
+<Clue>Lower Lip</Clue>
+<Clue>Zoo</Clue>
+<Clue>Cape Cod</Clue>
+<Clue>Ship</Clue>
+<Clue>Butter</Clue>
+<Clue>Skate On Thin Ice</Clue>
+<Clue>Ski Lift</Clue>
+<Clue>Icon</Clue>
+<Clue>Scarface</Clue>
+<Clue>Stand On Your Head</Clue>
+<Clue>Task</Clue>
+<Clue>Beach Chair</Clue>
+<Clue>Queen Elizabeth</Clue>
+<Clue>Alive</Clue>
+<Clue>Crows Nest</Clue>
+<Clue>Little Red Riding Hood</Clue>
+<Clue>Poach</Clue>
+<Clue>Roundhouse</Clue>
+<Clue>Fork Lift</Clue>
+<Clue>Lemon Drop</Clue>
+<Clue>Bearskin Rug</Clue>
+<Clue>Close Shave</Clue>
+<Clue>Time Bomb</Clue>
+<Clue>Trap Shoot</Clue>
+<Clue>Before</Clue>
+<Clue>Bend Over Backwards</Clue>
+<Clue>Hermit Crab</Clue>
+<Clue>Snooze Button</Clue>
+<Clue>Office</Clue>
+<Clue>Armband</Clue>
+<Clue>Aircraft Carrier</Clue>
+<Clue>Main Street</Clue>
+<Clue>The Itsy Bitsy Spider</Clue>
+<Clue>Pork Chop</Clue>
+<Clue>Box Seats</Clue>
+<Clue>Anteater</Clue>
+<Clue>Broken Window</Clue>
+<Clue>Deflate</Clue>
+<Clue>Speedometer</Clue>
+<Clue>Climb</Clue>
+<Clue>Stir Crazy</Clue>
+<Clue>Soap</Clue>
+<Clue>Insect</Clue>
+<Clue>Bookcase</Clue>
+<Clue>Evil</Clue>
+<Clue>Chicken Pox</Clue>
+<Clue>Holiday</Clue>
+<Clue>Glass</Clue>
+<Clue>Bee's Knees</Clue>
+</Root>
